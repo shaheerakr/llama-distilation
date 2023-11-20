@@ -1,0 +1,3 @@
+transformers
+datasets==1.18
+apache_beam
